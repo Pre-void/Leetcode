@@ -1,0 +1,3 @@
+"E:\LZH\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\94.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\94.dir/objects.a @CMakeFiles\94.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\94.dir/objects.a -Wl,--no-whole-archive -o 94.exe -Wl,--out-implib,lib94.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\94.dir\linklibs.rsp

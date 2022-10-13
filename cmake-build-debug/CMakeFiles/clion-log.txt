@@ -1,0 +1,4 @@
+"E:\LZH\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S E:\LZH\Clion\project\Leetcode -B E:\LZH\Clion\project\Leetcode\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/LZH/Clion/project/Leetcode/cmake-build-debug
